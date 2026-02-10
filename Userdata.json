@@ -11,4 +11,10 @@
         "expirydate": "31-12-2026",
         "Allowoffline": true
    },
+   {
+        "device_id": "b001f8a800a33d71",
+        "key": "Tes",
+        "expirydate": "31-12-2026",
+        "Allowoffline": true
+   },
 ]
